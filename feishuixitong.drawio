@@ -225,8 +225,8 @@
         <mxCell id="2-IeezzNG0sbmpi-8emS-20" value="清水管至码头喷淋进水阀（未挂牌）" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="220" y="680" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2-IeezzNG0sbmpi-8emS-22" value="二期至码头冲洗进水阀" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="420" y="425" width="74.75" height="30" as="geometry" />
+        <mxCell id="2-IeezzNG0sbmpi-8emS-22" value="二期回用水至码头冲洗水阀门" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="420" y="431" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2-IeezzNG0sbmpi-8emS-23" value="一期码头喷淋总阀" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="332" y="525.5" width="106.67" height="30" as="geometry" />

@@ -308,10 +308,10 @@
           <mxGeometry x="610" y="865" width="32.5" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="wxtwEqQVHol0yxSho6Rz-13" value="" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=gate;actuator=man" vertex="1" parent="1">
-          <mxGeometry x="504" y="539.25" width="32.5" height="32.5" as="geometry" />
+          <mxGeometry x="466.25" y="337.5" width="32.5" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="wxtwEqQVHol0yxSho6Rz-14" value="码头消防水总阀" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430.25" y="571.75" width="90" height="30" as="geometry" />
+        <mxCell id="wxtwEqQVHol0yxSho6Rz-14" value="二期码头消防水进水总阀" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="437.5" y="312" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wxtwEqQVHol0yxSho6Rz-15" value="" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=selfDrain" vertex="1" parent="1">
           <mxGeometry x="345" y="840" width="30" height="18" as="geometry" />
@@ -324,6 +324,12 @@
         </mxCell>
         <mxCell id="wxtwEqQVHol0yxSho6Rz-19" value="放水阀" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="745" y="949" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wxtwEqQVHol0yxSho6Rz-33" value="" style="verticalLabelPosition=bottom;align=center;html=1;verticalAlign=top;pointerEvents=1;dashed=0;shape=mxgraph.pid2valves.valve;valveType=gate;actuator=man" vertex="1" parent="1">
+          <mxGeometry x="577.5" y="337" width="32.5" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wxtwEqQVHol0yxSho6Rz-34" value="一期码头消防水进水总阀" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="552" y="312" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
